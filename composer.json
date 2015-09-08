@@ -12,7 +12,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "bobroid\\yii2-sweetalert\\": ""
+            "bobroid\\sweetalert\\": ""
         }
     }
 }
